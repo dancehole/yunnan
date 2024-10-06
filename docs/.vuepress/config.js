@@ -17,7 +17,7 @@ const getFileNames = (parentFileName) => {
 module.exports = {
   title: '图书管理系统',
   description: '基于 Vue 的图书管理系统',
-  base: "/vuepress/",
+  base: "/",   // 前置路由
   head: [
     ['link', { rel: 'icon', href: `https://gitee.com/dancehole/book-management` }]
   ],
