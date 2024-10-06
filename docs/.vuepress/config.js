@@ -15,8 +15,8 @@ const getFileNames = (parentFileName) => {
 }
 
 module.exports = {
-  title: '图书管理系统',
-  description: '基于 Vue 的图书管理系统',
+  title: '2024 | 云南 | 雨崩',
+  description: '攻略记录',
   base: "/",   // 前置路由
   head: [
     ['link', { rel: 'icon', href: `https://gitee.com/dancehole/book-management` }]
@@ -25,7 +25,7 @@ module.exports = {
     [
       '@vuepress/google-analytics',
       {
-        'ga': 'UA-861925689-8' // UA-00000000-0
+        'ga': '' // UA-00000000-0
       }
     ],
     '@vuepress/back-to-top',
@@ -89,8 +89,8 @@ module.exports = {
         text: '指南', 
         items: [
           {text: '快速开始 | 索引页',link: '/guide/quickstart'},
-          {text: 'vuepress部署',link: '/guide/VuePress创建文档网站'},
-          {text: '装备准备与说明',link: '/guide/equipment'}
+          {text: '装备准备与说明',link: '/guide/equipment'},
+          {text: '团队规范',link: '/guide/team'}
         ]
       },
       {
@@ -124,7 +124,7 @@ module.exports = {
 
       '/guide/': [
         {
-          title: 'VuePress 指南',
+          title: '指南',
           collapsable: false, //是否展开
           children: getFileNames('/guide/')
         }

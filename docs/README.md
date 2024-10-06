@@ -1,11 +1,11 @@
 ---
 home: true
-heroImage: /images/book.jpg
-actionText: 立即体验 →
-actionLink: http://dancehole.cn
+heroImage: /images/yunnan1.gif
+actionText: 立即开始 →
+actionLink: http://yunnan.dancehole.cn
 features:
-- title: 简洁至上
-  details: 以 java 为中心的项目结构，以最少的配置完成系统。
+- title: 攻略工作流
+  details: 随时编辑，支持多端查看
 - title: Vue驱动
   details: 享受 Vue + webpack 的开发体验，最大程度降低部署性能消耗。
 - title: 高性能
