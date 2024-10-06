@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "650ba684d798bc09f4542318829bf793"
+    "revision": "1ab2be628ca911eb0be191ed05451e84"
   },
   {
     "url": "assets/css/0.styles.f0d21de3.css",
@@ -142,8 +142,8 @@ self.__precacheManifest = [
     "revision": "3d69d7047a111ef22e55b5ec73129ea7"
   },
   {
-    "url": "assets/js/app.831a78f6.js",
-    "revision": "33de18071c4298a577ec36ed0700c7ba"
+    "url": "assets/js/app.32d0c99b.js",
+    "revision": "38d1eae165116153f3f9e7db5e811dff"
   },
   {
     "url": "assets/js/vendors~docsearch.4ad8f938.js",
@@ -151,11 +151,11 @@ self.__precacheManifest = [
   },
   {
     "url": "guide/quickstart.html",
-    "revision": "c4551d5f0ebff750cfbd3306464ba824"
+    "revision": "f688bf9d569d7ab01af29682a0b23f18"
   },
   {
     "url": "guide/VuePress创建文档网站.html",
-    "revision": "7dad2e45aeb1d2d3964a4aa9ccb5baa8"
+    "revision": "83f8411e0ffaaee21b834fc54dd075f8"
   },
   {
     "url": "images/book.jpg",
@@ -163,11 +163,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "81c8a23483b6a9132e250f49d74131cf"
+    "revision": "6dd1f6be68842449b17446e7a111235b"
   },
   {
     "url": "link/contact.html",
-    "revision": "744ab650ecd14c6aaee78ca0c68b2ba0"
+    "revision": "acc1b549826d2bc6009dfc1bed1e0ae4"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
