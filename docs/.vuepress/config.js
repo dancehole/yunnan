@@ -88,12 +88,16 @@ module.exports = {
       {
         text: '指南', 
         items: [
-          {text: '快速开始',link: '/guide/quickstart'},
-          {text: 'vuepress部署',link: '/guide/VuePress创建文档网站'}
+          {text: '快速开始 | 索引页',link: '/guide/quickstart'},
+          {text: 'vuepress部署',link: '/guide/VuePress创建文档网站'},
+          {text: '装备准备与说明',link: '/guide/equipment'}
         ]
       },
       {
-        text: '项目介绍',link: 'https://intro.dancehole.cn/library.html'
+        text: '会议记录',
+        items: [
+          {text: '2021年10月6日',link: '/record/20241006'}
+        ]
       }
       // {
       //   text: 'GitHub', link: 'https://github.com/dancehole/vuepress'
