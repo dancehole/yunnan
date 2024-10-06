@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{322:function(t,n,s){"use strict";s.r(n);var o=s(12),e=Object(o.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("blockquote",[t("p",[this._v("欢迎来到这里，有什么想说的都可以呀！")])])])}),[],!1,null,null,null);n.default=e.exports}}]);
